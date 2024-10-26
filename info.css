@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+section h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+section p {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+    color: antiquewhite;
+    line-height: 1.5em;
+}
+
+#one {
+    text-align: center;
+    color: antiquewhite;
+}
+#two {
+    text-align: right;
+    color: antiquewhite;
+    padding-right: 30%;     
+}
+#three {
+    text-align: left;
+    color: antiquewhite;
+    padding-left: 30%; 
+}
+#four {
+    text-align: right;
+    color: antiquewhite;
+    padding-right: 30%; 
+}
+#five {
+    text-align: left;
+    color: antiquewhite;
+    padding-left: 30%; 
+}
